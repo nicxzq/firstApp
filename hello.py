@@ -34,9 +34,10 @@
 # while sum==0:
 #     print sum
 
-#list[]  tuple() 
+#list[,]  tuple(,) 
 
-d = {'xzq':100, 'xhy':101, 'xtx':True}
+#directory
+#d = {'xzq':100, 'xhy':101, 'xtx':True}
 # if 'xtx' in d:
 #     d['xtx']= 102
 # for x in d:
