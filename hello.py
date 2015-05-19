@@ -36,7 +36,7 @@
 
 #list[]  tuple() 
 
-d = {'xzq':100, 'xhy':101, 'xtx':True}
+#d = {'xzq':100, 'xhy':101, 'xtx':True}
 # if 'xtx' in d:
 #     d['xtx']= 102
 # for x in d:
